@@ -8,7 +8,7 @@ The template for 3 humans and 5 strong AI opponents. If you want a harder challe
 Original version.
 
 ## Enlightment Circle
-Added more AI cities, added Town Portal to preset Pandora Boxes.
+Added more AI and human cities, added Town Portal to the second zone.
 
 # Install
 Copy "Long War" and other folders to HotA_RMGTemplates directory of your HotA installation.
