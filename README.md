@@ -14,6 +14,6 @@ Added more AI and human cities, added Town Portal to the second zone.
 Copy "Long War" and other folders to HotA_RMGTemplates directory of your HotA installation.
 
 # Plans
-Think of a slower yet interesting start.
-Improve 
+Think how to implement a slower yet interesting start.
+
 
