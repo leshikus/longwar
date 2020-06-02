@@ -4,6 +4,11 @@ The template pack for HotA random map generator for longer games.
 # Custom templates
 The template for 3 humans and 5 strong AI opponents. If you want a harder challenge, set "strong" monsters and AI team.
 
+## Goals
+* Challenging
+* Not boring
+* Playable without save scumming
+
 ## Death from Below
 Original version.
 
