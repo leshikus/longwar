@@ -2,7 +2,7 @@
 Copy "Long War" and other folders to HotA_RMGTemplates directory of your HotA installation.
 
 # Longwar
-The template pack for HotA random map generator for longer games.
+The template pack for HotA random map generator optimized for giant maps.
 
 # Death from Below
 The template for 3 humans and 5 strong AI opponents. Tested with "Normal" water + "Strong" monsters. If you want a harder challenge, set AI teams.
