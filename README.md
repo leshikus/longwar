@@ -19,6 +19,6 @@ This is the updated version of the previous template. Added more AI and human ci
 Thinking how to implement a slower yet interesting start. Planning to ship new releases for each HotA editor release.
 
 # Testing
-Subterranean gate. Underworld connectivity. Map validation. Interesting hero availability. GoSolo.
+Subterranean gate. Underworld connectivity. Map validation. Interesting hero availability. Well. GoSolo.
 
 
