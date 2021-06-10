@@ -5,7 +5,7 @@ Copy "Long War" and other folders to HotA_RMGTemplates directory of your HotA in
 The template pack for HotA random map generator optimized for giant maps.
 
 # Death from Below
-The template for 3 humans and 5 strong AI opponents. Tested with "Normal" water + "Strong" monsters. If you want a harder challenge, set AI teams.
+The template for 3 humans and 5 strong AI opponents. Recommended generator settings: "Giant" map, "Normal" water, "Strong" monsters. If you want a harder challenge, set AI teams.
 
 ## Goals
 * Challenging
@@ -13,7 +13,7 @@ The template for 3 humans and 5 strong AI opponents. Tested with "Normal" water 
 * Playable without save scumming
 
 # Enlightment Circle
-This is the updated version of the previous template. Added more AI and human cities, added Town Portals.
+This is the updated version of the previous template. Added more AI and human cities, added Town Portals. Recommended generator settings: "Giant" map, "No" water, "Strong" monsters.
 
 # Plans
 Thinking how to implement a slower yet interesting start. Planning to ship new releases for each HotA editor release.
