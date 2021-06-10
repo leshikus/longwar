@@ -15,7 +15,7 @@ The template for 3 humans and 5 strong AI opponents. Recommended generator setti
 # Enlightment Circle
 This is the updated version of the previous template. Added more AI and human cities, added Town Portals. Recommended generator settings: "Giant" map, "No" water, "Strong" monsters.
 
-# Pleease spare my implings
+# Pleease Spare my Implings
 TBD
 
 # Plans
