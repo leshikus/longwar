@@ -19,10 +19,16 @@ This is the updated version of the previous template. Added more AI and human ci
 Swapped underground and surface planes to ensure DD connectivity of the second plane.
 
 # Artificers
-Added water back.
-No mines to delay player expansion. Still computer is not able to collect troops successfully, compliant zones should have low value guards.
-Hero spawners work this time. Still all the heroes go to the underworld map, this was not expected.
+* Added water back.
+* No mines to delay player expansion.
+* Computer hero spawners generate 8 heroes at the game start.
 
+## Problems
+* Computer is not able to collect troops successfully, compliant zones should have low value guards, should be smaller.
+* Player necromancer town should have several vampire dwellings.
+* Spawned heroes move to the underworld map, this was not expected and makes things easier.
+* Add increased exit guard difficulty and size for compliant zones, thus making each next enemy stronger.
+* Computer cannot play well for human starts.
 
 # Plans
 Thinking how to implement a slower yet interesting start. Planning to ship new releases for each HotA editor release.
