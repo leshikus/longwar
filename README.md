@@ -29,6 +29,7 @@ Swapped underground and surface planes to ensure DD connectivity of the second p
 * Spawned heroes move to the underworld map, this was not expected and makes things easier.
 * Add increased exit guard difficulty and size for compliant zones, thus making each next enemy stronger.
 * Computer cannot play well for human starts.
+* Too easy to get the first ship, think of putting hard terrain around starting areas.
 
 # Plans
 Thinking how to implement a slower yet interesting start. Planning to ship new releases for each HotA editor release.
