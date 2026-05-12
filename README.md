@@ -1,4 +1,4 @@
-# Installation
+# Installation
 
 Copy the `.h3t` file to the `HotA_RMGTemplates` directory in your Heroes of Might and Magic III: Horn of the Abyss installation.
 
