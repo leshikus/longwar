@@ -1,40 +1,92 @@
-# Install
-Copy "Long War" and other folders to HotA_RMGTemplates directory of your HotA installation.
+# Installation
+
+Copy the `.h3t` file to the `HotA_RMGTemplates` directory in your Heroes of Might and Magic III: Horn of the Abyss installation.
 
 # Longwar
-The template pack for HotA random map generator optimized for giant maps.
 
-# Death from Below
-The template for 3 humans and 5 strong AI opponents. Recommended generator settings: "Giant" map, "Normal" water, "Strong" monsters. If you want a harder challenge, set AI teams.
+A template pack for the HotA random map generator, optimized for giant maps.
 
-## Goals
-* Challenging
-* Not boring
-* Playable without save scumming
+# Templates
 
-# Enlightment Circle
-This is the updated version of the previous template. Added more AI and human cities, added Town Portals. Recommended generator settings: "Giant" map, "No" water, "Strong" monsters.
+## Death from Below
 
-# Please Spare my Implings
-Swapped underground and surface planes to ensure DD connectivity of the second plane.
+A template designed for 3 human players versus 5 strong AI opponents.
 
-# Artificers
-* Added water back.
-* No mines to delay player expansion.
-* Computer hero spawners generate 8 heroes at the game start.
+### Recommended Generator Settings
 
-## Problems
-* Computer is not able to collect troops successfully, compliant zones should have low value guards, should be smaller.
-* Player necromancer town should have several vampire dwellings.
-* Spawned heroes move to the underworld map, this was not expected and makes things easier.
-* Add increased exit guard difficulty and size for compliant zones, thus making each next enemy stronger.
-* Computer cannot play well for human starts.
-* Too easy to get the first ship, think of putting hard terrain around starting areas.
+* Map size: `Giant`
+* Water: `Normal`
+* Monster strength: `Strong`
+
+For an additional challenge, enable AI teams.
+
+---
+
+## Enlightment Circle
+
+An updated version of the previous template.
+
+### Changes
+
+* Added more AI and human towns
+* Added Town Portals
+
+### Recommended Generator Settings
+
+* Map size: `Giant`
+* Water: `No`
+* Monster strength: `Strong`
+
+---
+
+## Please Spare my Implings
+
+The underground and surface layers were swapped to ensure Dimension Door connectivity on the second map level.
+
+---
+
+## Artificers
+
+### Changes
+
+* Water restored
+* Mines removed to slow early player expansion
+* Computer hero spawners now generate 8 heroes at game start
+
+---
+
+## Hidden in Snow
+
+### Features
+
+* Focused on Bulwark and Tower towns
+* Libraries encourage long-term progression
+
+# Known Issues
+
+* AI struggles to collect troops efficiently. Compliant zones should be moved to another map level. Also delay human progression and give AI more preparation time.
+
+* Necromancer starting towns should include several Vampire dwellings. Do this for every favorite troop. 
+
+* Spawned heroes unexpectedly move into the underground layer, making the map easier than intended.
+
+* Exit guards for compliant zones should scale in size and difficulty so that each subsequent enemy becomes stronger.
+
+* AI performs poorly when using human starting zones.
+
+* The first ship is currently too easy to obtain. Consider surrounding starting areas with difficult terrain.
 
 # Plans
-Thinking how to implement a slower yet interesting start. Planning to ship new releases for each HotA editor release.
 
-# Testing
-Subterranean gate. Underworld connectivity. Map validation. Interesting hero availability. Well. GoSolo.
+* Experimenting with a slower but still engaging early-game progression
+* Planning new releases alongside future HotA editor updates
 
+# Testing Checklist
 
+* Subterranean Gate connectivity
+* Underground disconnected zones accessibility
+* Map validation
+* Interesting hero pool generation
+* Well generation
+* Cartographer generation
+* GoSolo
